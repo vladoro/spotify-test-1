@@ -2,12 +2,12 @@
 
 ### To Use
 
-1. clone the repo
-2. `npm install` or `yarn add`
-3. add `.env` file
-4. edit `/models/index` to the database config of your choosing
-5. eidt `/config/config.js` to the configuration of your choosing'
-6. edit `app.js` to the routes you'd like to use
-7. edit `routes` to your liking
+1. fork the repo
+2. `npm install`
+3. edit .env file with environment variables you need
+4. `npm start`
+5. go to ./client
+6. `npm install`
+7. `npm start`
 
-## Enjoy
+## You are ready to make the evaluation
